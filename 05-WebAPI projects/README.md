@@ -1,0 +1,1 @@
+Minimal API, CRUD, JWT, Clean Architecture
